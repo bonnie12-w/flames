@@ -23,7 +23,7 @@ const AboutPage = () => {
             >
               <p className="text-primary tracking-[0.3em] uppercase text-xs mb-4">Our Story</p>
               <h1 className="font-display text-4xl sm:text-5xl font-bold text-foreground">
-                About <span className="gold-gradient-text italic">Savannah Flame</span>
+                About <span className="gold-gradient-text italic">Amazonia Bistro</span>
               </h1>
             </motion.div>
 
@@ -34,7 +34,7 @@ const AboutPage = () => {
               className="max-w-3xl mx-auto text-center"
             >
               <p className="text-muted-foreground text-lg leading-relaxed mb-8">
-                Born from a passion for authentic flame-grilled cuisine, Savannah Flame Grill brings the rich flavors 
+                Born from a passion for authentic flame-grilled cuisine, Amazonia Bistro brings the rich flavors 
                 of the African savannah to Nairobi's vibrant dining scene. Every dish is crafted with premium ingredients, 
                 grilled over open flames, and served with warmth.
               </p>
