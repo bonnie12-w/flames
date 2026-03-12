@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 text-center text-xs text-muted-foreground/50">
-          © 2026 Savannah Flame Grill. All rights reserved.
+          © 2026 Amazonia Bistro. All rights reserved.
         </div>
       </div>
     </footer>
