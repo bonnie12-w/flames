@@ -88,7 +88,7 @@ const AboutPage = () => {
                 { icon: MapPin, text: "Westlands, Nairobi, Kenya" },
                 { icon: Phone, text: "+254 712 345 678" },
                 { icon: Mail, text: "hello@AmazoniaBistro.co.ke" },
-                { icon: Instagram, text: "@savannahflamegrill" },
+                { icon: Instagram, text: "@OliveiraRestaurant" },
                 { icon: Clock, text: "Mon – Sun: 11:00 AM – 11:00 PM" },
               ].map((item, i) => (
                 <p key={i} className="flex items-center gap-4 text-muted-foreground">
