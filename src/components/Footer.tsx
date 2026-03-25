@@ -9,12 +9,12 @@ const Footer = () => {
             <div className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🔥</span>
               <div>
-                <h3 className="font-display text-xl font-bold gold-gradient-text">Amazonia Bistro</h3>
-                <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">AB</p>
+                <h3 className="font-display text-xl font-bold gold-gradient-text">Swahili Plate</h3>
+                <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">SB</p>
               </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Nairobi's premier flame grill restaurant. Premium steaks, authentic Kenyan cuisine, and an unforgettable dining experience.
+              Nairobi's premier Swahili restaurant. Premium steaks, authentic Kenyan cuisine, and an unforgettable dining experience.
             </p>
           </div>
 
@@ -28,10 +28,10 @@ const Footer = () => {
                 <Phone className="w-4 h-4 text-primary" /> +254 712 345 678
               </p>
               <p className="flex items-center gap-3">
-                <Mail className="w-4 h-4 text-primary" /> hello@AmazoniaBistro.co.ke
+                <Mail className="w-4 h-4 text-primary" /> hello@SwahiliPlate.co.ke
               </p>
               <p className="flex items-center gap-3">
-                <Instagram className="w-4 h-4 text-primary" /> @Amazonia Bistro
+                <Instagram className="w-4 h-4 text-primary" /> @Swahili Plate
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 text-center text-xs text-muted-foreground/50">
-          © 2026 Amazonia Bistro. All rights reserved.
+          © 2026 Swahili Plate. All rights reserved.
         </div>
       </div>
     </footer>
