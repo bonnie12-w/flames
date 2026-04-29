@@ -39,9 +39,9 @@ const Navbar = () => {
           <span className="text-2xl">🔥</span>
           <div>
             <h1 className="font-display text-lg sm:text-xl font-bold gold-gradient-text leading-tight">
-              Swahili Plate
+              The Circle Chill Spot
             </h1>
-            <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">SP</p>
+            <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">CS</p>
           </div>
         </Link>
 
